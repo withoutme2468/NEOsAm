@@ -1,2 +1,0 @@
-# NEOsAm
-ZetrixgWW
